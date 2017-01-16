@@ -16,8 +16,8 @@ public class Oblast {
     @DatabaseField(columnName = POLJE_POCETNA_STRANA,canBeNull = false)
     private int pocetnaStrana;
 
-    public static String POLJE_NAZIV="naziv";
-    public static String POLJE_POCETNA_STRANA="pocetna_strana";
+    public static final String POLJE_NAZIV="naziv";
+    public static final String POLJE_POCETNA_STRANA="pocetna_strana";
 
     public Oblast() {
 

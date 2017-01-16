@@ -22,9 +22,9 @@ public class Knjiga {
 
     private boolean pristuna;
 
-    public static String POLJE_NASLOV="naslov";
-    public static String POLJE_BROJ_STRANA="broj_strana";
-    public static String POLJE_DATUM_IZDAVANJA="datum_izdavanja";
+    public static final String POLJE_NASLOV="naslov";
+    public static final String POLJE_BROJ_STRANA="broj_strana";
+    public static final String POLJE_DATUM_IZDAVANJA="datum_izdavanja";
 
     public Knjiga{
 
